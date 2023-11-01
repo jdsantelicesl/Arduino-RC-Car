@@ -1,6 +1,6 @@
 # Arduino RC Car
 
-About: Arduino RC Car is a repository used to contain all code files and other resources related to the Arduino RC Car project.
+About: Arduino RC Car is a repository used to contain all code files and other resources related to the Arduino RC Car project. Please see this [Video of Car](https://www.reddit.com/r/robotics/comments/16mijlp/rc_car_made_with_arduino_and_fusion360/?rdt=49786) on Reddit.
 
 See document below for:
 - Code Guide.
@@ -24,7 +24,7 @@ Receiver code overview:
 - Adjusts Y-axis for speed and direction control and sends it to LN298 motor driver.
 
 **STL Files and Wiring:**
-Please see pictures in [Thingiverse Profile] (https://www.thingiverse.com/thing:6188559). These pictures contain wiring and STL files of RC Car, controller has not yet been uploaded. 
+Please see pictures in [Thingiverse Profile] (https://www.thingiverse.com/thing:6188559). These pictures contain wiring and STL files of RC Car, controller has not yet been uploaded.
 See other posts on Thingiverse for additional designs such as battery pack. 
 
 **Additional Information**
