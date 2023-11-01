@@ -10,12 +10,14 @@ See document below for:
 **Code Guide:**
 There are two folders on the repository: Car Reciever and Controller. These Two folders contain the controller sender code and the RC car receiver code. These files can be downloaded and ran.
 They are contained within their specific folders because Arduino will not run a file that is not contained on a folder with the same name as file. Open Sender Code and Receiver Code, ignore the "sketch" files.
+
 Sender code overview:
 - Establishes radio connection with receiver.
 - Takes input from joystick.
 - Reduces data size.
 - Combines X-axis and Y-axis data onto a single byte.
 - Sends data to receiver.
+
 Receiver code overview:
 - Establishes radio connection with sender.
 - Receives byte input from sender.
@@ -24,7 +26,7 @@ Receiver code overview:
 - Adjusts Y-axis for speed and direction control and sends it to LN298 motor driver.
 
 **STL Files and Wiring:**
-Please see pictures in [Thingiverse Profile] (https://www.thingiverse.com/thing:6188559). These pictures contain wiring and STL files of RC Car, controller has not yet been uploaded.
+Please see pictures in [Thingiverse Profile](https://www.thingiverse.com/thing:6188559). These pictures contain wiring and STL files of RC Car, controller has not yet been uploaded.
 See other posts on Thingiverse for additional designs such as battery pack. 
 
 **Additional Information**
